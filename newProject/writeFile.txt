@@ -1,0 +1,1 @@
+this is test file which proves that it is been read using nodeJS code.
